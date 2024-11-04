@@ -1,7 +1,7 @@
 ## Welcome to the PedroDouglas repository (Me) 👋
 
 - 🔭 I currently work with backend
-- 🌱 I'm studying Angular and TypeScript
+- 🌱 I'm studying React and TypeScript
 - 📫 Contact by email: pdouglas008@gmail.com
 - 🤩 Favorite language: Java
 
